@@ -11,7 +11,7 @@
   
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: I’ve traveled solo to [destination], and it was an empowering experience that taught me so much about myself!
+- ⚡ Fun fact: I’ve traveled solo to many places, and it was an empowering experience that taught me so much about myself!
 
 ## Achievements Badges 🏅
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
