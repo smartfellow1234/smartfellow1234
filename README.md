@@ -7,5 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
+[![An image of @smartfellow1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smartfellow1234)](https://holopin.io/@smartfellow1234)
 
 --->
