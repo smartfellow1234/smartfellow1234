@@ -1,17 +1,24 @@
-- 👋 Hi, I’m K V Manoj Kumar
-  
-- 👀 I’m interested in Data Science , Machine Learning , DSA with JAVA
-  
-- 🌱 I’m currently learning Machine learning
-  
-- 💞️ I’m looking to collaborate on data science projects, cloud computing (Azure), NLP, and open-source initiatives. I’m particularly excited about opportunities to work on 
-  real-world applications, AI/ML models, and anything related to optimizing data-driven solutions. Always open to contributing to projects that make a positive impact!
-  
-- 📫 How to reach me email id : **mmaannoojj2005@gmail.com**
-  
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: I’ve traveled solo to many places, and it was an empowering experience that taught me so much about myself!
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/k-v-manoj-kumar-56213828b/">Manoj</a> </h1>
+
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-v-manoj-kumar-56213828b//">LinkedIn</a> - 
+  <a href="https://www.instagram.com/manoj__.2005/">Instagram</a> 
+</p>
+
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Data Science | Machine Learning | DSA with JAVA <br>
+💬 Ask me about Data Science.<br>
+<!--- Adding Tech Stack open Section -->
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/smartfellow1234">
+   <img height="155em" src="YOUR_GENERATED_URL_1" alt="Smart Fellow GitHub stats" />
+   <img height="155em" src="YOUR_GENERATED_URL_2" alt="Smart Fellow GitHub stats" />
+</a>
+
+     
 
 ## Achievements Badges 🏅
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
