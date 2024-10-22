@@ -14,9 +14,10 @@
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/smartfellow1234">
-   <img height="155em" src="YOUR_GENERATED_URL_1" alt="Smart Fellow GitHub stats" />
-   <img height="155em" src="YOUR_GENERATED_URL_2" alt="Smart Fellow GitHub stats" />
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=smartfellow1234&show_icons=true&theme=dark" alt="Smart Fellow GitHub stats" />
+   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartfellow1234&theme=dark&layout=compact" alt="Top Languages" />
 </a>
+
 
      
 
