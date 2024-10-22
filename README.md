@@ -6,6 +6,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Achievements  
+![Postman Badge](photo_2024-10-22_19-20-27.jpg)
+![Hacktoberfest Badge](photo_2024-10-22_19-05-57.jpg)
+![Hacktoberfest Badge](photo_2024-10-22_19-07-07.jpg)
+![Hacktoberfest Badge](photo_2024-10-22_19-07-09.jpg)
+![Hacktoberfest Badge](photo_2024-10-22_19-07-12.jpg)
+![Hacktoberfest Badge](photo_2024-10-22_19-07-15.jpg)
+
+
+
 <!---
 
 --->
