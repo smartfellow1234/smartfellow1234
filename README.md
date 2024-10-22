@@ -5,14 +5,16 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Achievements Badges 🏅
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://your-repo-link/photo_2024-10-22_19-20-27.jpg" width="100px" height="100px" />
+  <img src="https://your-repo-link/photo_2024-10-22_19-05-57.jpg" width="100px" height="100px" />
+  <img src="https://your-repo-link/photo_2024-10-22_19-07-07.jpg" width="100px" height="100px" />
+  <img src="https://your-repo-link/photo_2024-10-22_19-07-09.jpg" width="100px" height="100px" />
+  <img src="https://your-repo-link/photo_2024-10-22_19-07-12.jpg" width="100px" height="100px" />
+  <img src="https://your-repo-link/photo_2024-10-22_19-07-15.jpg" width="100px" height="100px" />
+</div>
 
-### Achievements  
-![Postman Badge](photo_2024-10-22_19-20-27.jpg)
-![Hacktoberfest Badge](photo_2024-10-22_19-05-57.jpg)
-![Hacktoberfest Badge](photo_2024-10-22_19-07-07.jpg)
-![Hacktoberfest Badge](photo_2024-10-22_19-07-09.jpg)
-![Hacktoberfest Badge](photo_2024-10-22_19-07-12.jpg)
-![Hacktoberfest Badge](photo_2024-10-22_19-07-15.jpg)
 
 
 
